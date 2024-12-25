@@ -32,7 +32,7 @@ Before starting, ensure the following are installed on your machine:
 
 To confirm Docker is installed, run the following command in your terminal:
 
-```bash
+`bash
 docker --version
 
 
